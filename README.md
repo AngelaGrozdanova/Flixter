@@ -21,13 +21,10 @@ Flixter is a dynamic **web application** designed for movie enthusiasts. It allo
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React, Next.js, Tailwind CSS  
-- **Backend:** Next.js API Routes  
-- **Database:** (if applicable, e.g., MongoDB or Firebase)  
-- **API:** The Movie Database (TMDB) API  
-- **Authentication:** (if implemented) NextAuth.js  
-
----
+- **Frontend:** HTML, CSS, JavaScript  
+- **Database:** The Movie Database (TMDB) API  
+- **API:** Fetch API for real-time movie data  
+- **Storage:** Local Storage for saving user data   
 
 ## 💻 Getting Started
 
