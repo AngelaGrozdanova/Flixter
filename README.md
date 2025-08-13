@@ -4,7 +4,7 @@ Flixter is a dynamic **web application** designed for movie enthusiasts. It allo
 
 ---
 
-![Homepage](screen.png)
+![Homepage](screeen.png)
 
 ---
 
