@@ -8,6 +8,14 @@ Flixter is a dynamic **web application** designed for movie enthusiasts. It allo
 
 ---
 
+## 💻 Getting Started
+
+### 1. **Clone the repository**
+   - To clone the project, open your terminal and run the following command:
+     ```bash
+     git clone https://github.com/AngelaGrozdanova/Flixter.git
+     ```
+
 ## 🚀 Features
 
 - Browse popular and trending movies
@@ -26,10 +34,3 @@ Flixter is a dynamic **web application** designed for movie enthusiasts. It allo
 - **API:** Fetch API for real-time movie data  
 - **Storage:** Local Storage for saving user data   
 
-## 💻 Getting Started
-
-### 1. **Clone the repository**
-   - To clone the project, open your terminal and run the following command:
-     ```bash
-     git clone https://github.com/AngelaGrozdanova/Flixter.git
-     ```
