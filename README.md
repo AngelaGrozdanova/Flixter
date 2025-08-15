@@ -33,6 +33,5 @@ Flixter is a dynamic **web application** designed for movie enthusiasts. It allo
 - **Database:** The Movie Database (TMDB) API  
 - **API:** Fetch API for real-time movie data  
 - **Storage:** Local Storage for saving user data   
-
-![Homepage](thumb/Screenshot 2025-08-15 at 16.27.52.png)
+![Homepage](screeen.png)![Homepage](thumb/Screenshot 2025-08-15 at 16.27.52.png)
 ![Homepage](thumb/Screenshot 2025-08-15 at 16.29.20.png)
