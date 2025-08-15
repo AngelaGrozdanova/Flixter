@@ -34,6 +34,3 @@ Flixter is a dynamic **web application** designed for movie enthusiasts. It allo
 - **API:** Fetch API for real-time movie data  
 - **Storage:** Local Storage for saving user data
 
-
-![Homepage](thumb/Screenshot-20.png)
-![Homepage](thumb/Screenshot-52.png)
